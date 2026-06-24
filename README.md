@@ -163,17 +163,6 @@ Created custom measures and calculated columns such as:
 - Focus acquisition efforts on top-performing states.
 - Use demographic segmentation for targeted marketing.
 
----
-
-## 📸 Dashboard Preview
-
-### Transaction Dashboard
-(Add Screenshot Here)
-
-### Customer Dashboard
-(Add Screenshot Here)
-
----
 
 ## 👨‍💻 Author
 
